@@ -32,3 +32,10 @@ Julia,
 [VBA](https://zhuanlan.zhihu.com/p/41432021)
 
 上面仅为测试证实过的编程语言版本。更早版本和其他语言很可能已经支持. [Unicode strings - Rosetta Code](http://rosettacode.org/wiki/Unicode_strings)列出了更多编程语言对Unicode的支持程度, 可以逐个检验.
+
+下面列出一些常用框架的使用中文命名的演示实例:
+
+- Java
+  - Spring Boot
+    - v1.3.3, JSP + MySQL [实例](https://github.com/program-in-chinese/jinxiaocun)
+    - v2.0.3, H2数据库 [实例](https://github.com/program-in-chinese/programming_term_dictionary)
